@@ -1,0 +1,9 @@
+path: vim/bundle/pymappings
+deletechar: x
+pyversion: no
+doc: pymappings
+
+ftplugins:
+    python:
+        - lib/python_advanced.yaml
+        - lib/python_base.yaml
